@@ -1,0 +1,18 @@
+div{
+margin-left: 40%;
+margin-right: 40%;
+height: 250px;
+}
+
+#green{
+    background-color: green;
+    color: green;
+}
+#yellow{
+    background-color: yellow;
+    color: yellow;
+}
+#red{
+    background-color: red;
+    color: red;
+}

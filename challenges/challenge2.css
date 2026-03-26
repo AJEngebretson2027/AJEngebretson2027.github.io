@@ -1,0 +1,61 @@
+div{
+    display: inline-block;
+    height: 57px;
+    align-items: center;
+    border-style: solid;
+}
+p{
+    display: inline;
+    font-size: 50px;
+    text-align: middle;
+
+}
+#a{
+    color: red;
+}
+
+#b{
+    color: orange;
+}
+
+#c{
+    color: yellow;
+}
+
+#d{
+    color: green;
+}
+
+#e{
+    color: blue;
+}
+
+#f{
+    color: purple;
+}
+
+#g{
+    color: violet;
+}
+
+#h{
+    color: white;
+}
+
+#i{
+    color: lightgrey;
+}
+
+#div1{
+    background-color: pink;
+    border-color: blue;
+    width: 560px;
+    border-width: 7px;
+
+}
+#div2{
+    background-color: black;
+    border-color: green;
+    width: 360px;
+    border-width: 7px;
+}

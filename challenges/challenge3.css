@@ -1,0 +1,51 @@
+.container{
+    display: inline-block;
+    position: absolute;
+    margin-top: 0px;
+
+}
+
+#pink{
+    background-color: pink;
+    display: inline-block;
+    margin-left: 20%;
+    height: 300px;
+    width: 300px;
+}
+
+#lightgreen{
+    background-color: lightgreen;
+    display: block;
+    width: 200px;
+    height: 100px;
+    margin-top: 0%;
+padding-bottom: 0%;
+
+}
+
+#lightblue{
+    background-color: lightblue;
+    display: block;
+    width: 200px;
+    height: 100px;
+    margin-top: 0px;
+margin-bottom: 0%;
+}
+
+#lightpruple{
+    background-color: orchid;
+    display: block;
+    width: 200px;
+    height: 100px;
+    margin-top: 0%;
+margin-bottom: 0px;
+}
+
+#lightyellow{
+    background-color: lightyellow;
+    display: inline-block;
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    right: 300px;
+}
