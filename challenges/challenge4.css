@@ -1,0 +1,22 @@
+body{
+    background-color: ghostwhite;
+}
+
+p{
+    margin-left: 5%;
+    margin-right: 5%;
+    word-break: break-all;
+}
+#heading{
+    font-style: italic;
+    font-size: 75px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#div1{
+    display: block;
+    background-color: lightgrey;
+    width: 280px;
+}
+#subheading1{
+    font-style: italic;
+}

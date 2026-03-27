@@ -1,8 +1,5 @@
 .container{
     display: inline-block;
-    position: absolute;
-    margin-top: 0px;
-
 }
 
 #pink{
@@ -11,6 +8,7 @@
     margin-left: 20%;
     height: 300px;
     width: 300px;
+
 }
 
 #lightgreen{
@@ -18,8 +16,7 @@
     display: block;
     width: 200px;
     height: 100px;
-    margin-top: 0%;
-padding-bottom: 0%;
+
 
 }
 
@@ -28,8 +25,7 @@ padding-bottom: 0%;
     display: block;
     width: 200px;
     height: 100px;
-    margin-top: 0px;
-margin-bottom: 0%;
+
 }
 
 #lightpruple{
@@ -37,15 +33,29 @@ margin-bottom: 0%;
     display: block;
     width: 200px;
     height: 100px;
-    margin-top: 0%;
-margin-bottom: 0px;
+
 }
 
 #lightyellow{
-    background-color: lightyellow;
+    background-color: gold;
     display: inline-block;
     height: 300px;
     width: 300px;
-    position: absolute;
-    right: 300px;
+}
+
+
+#textpink{
+    color: pink;
+}
+#textgreen{
+    color: lightgreen;
+}
+#textblue{
+    color: lightblue;
+}
+#textpurple{
+    color: orchid;
+}
+#textyellow{
+    color: gold;
 }
