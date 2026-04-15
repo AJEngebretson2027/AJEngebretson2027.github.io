@@ -8,14 +8,13 @@ div,p {
     display: inline-block;
 }
 
-
 #topcontainer{
     width: 100%;
     height: 40%;
 
 }
 
-#topbar{
+.topbar{
     display: flex;
     background-color: #F2F2F2;
     height:20%;
@@ -24,6 +23,11 @@ div,p {
     align-items: center;
 }
 
+.topbar > p{
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    color: dimgrey;
+    margin-right: 3%;
+}
 #itemsbar{
     width: 100%;
     height: 40%;
@@ -39,10 +43,4 @@ div,p {
     width: 100%;
     height: 60%;
     background-color: black;
-}
-
-#store{
- color: dimgrey;
- font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
- margin-right: 3%;
 }
