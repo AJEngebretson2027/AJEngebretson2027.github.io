@@ -26,12 +26,22 @@ div,p {
 .topbar > p{
     font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
     color: #d6d6d6;
-    margin-right: 3%;
+    margin-right: 2.5%;
 }
 .itemsbar{
     width: 100%;
     height: 40%;
     background-color: #fbfbfd;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.itemsbar > div{
+width: 75px;
+height: 50px;
+background-color: aqua;
+margin-right: 3%;
 }
 
 #tradeinbar{
