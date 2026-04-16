@@ -8,6 +8,14 @@ div,p {
     display: inline-block;
 }
 
+img{
+    margin: 0%;
+}
+
+p{
+font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+
 #topcontainer{
     width: 100%;
     height: 40%;
@@ -24,7 +32,6 @@ div,p {
 }
 
 .topbar > p{
-    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
     color: #d6d6d6;
     margin-right: 2.5%;
 }
@@ -38,10 +45,14 @@ div,p {
 }
 
 .itemsbar > div{
-width: 75px;
-height: 50px;
+width: 120px;
+height: 125px;
 background-color: aqua;
-margin-right: 3%;
+margin-right: 2.5%;
+}
+
+.itemsbar > div > p{
+    color: #464648;
 }
 
 #tradeinbar{
@@ -74,4 +85,9 @@ margin-right: 3%;
 #apple{
     width: 35px;
     height: 40px;
+}
+
+#double1{
+    width: 80px;
+    height: 100px;
 }
