@@ -51,8 +51,16 @@ background-color: aqua;
 margin-right: 2.5%;
 }
 
+.newtext{
+    color: #bf4800;
+    display: flex;
+    justify-content: center;
+}
+
 .itemsbar > div > p{
     color: #464648;
+    display: flex;
+    justify-content: center;
 }
 
 #tradeinbar{
@@ -87,7 +95,14 @@ margin-right: 2.5%;
     height: 40px;
 }
 
-#double1{
+.double{
     width: 80px;
     height: 100px;
+    margin-left: 15%;
+}
+
+
+
+.newtext{
+    color: #bf4800;
 }
