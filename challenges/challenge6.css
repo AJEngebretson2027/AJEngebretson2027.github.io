@@ -47,9 +47,10 @@ font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",s
 .itemsbar > div{
 width: 120px;
 height: 125px;
-background-color: aqua;
 margin-right: 2.5%;
 }
+
+
 
 .newtext{
     color: #bf4800;
@@ -57,7 +58,7 @@ margin-right: 2.5%;
     justify-content: center;
 }
 
-.itemsbar > div > p{
+.text{
     color: #464648;
     display: flex;
     justify-content: center;
@@ -101,8 +102,99 @@ margin-right: 2.5%;
     margin-left: 15%;
 }
 
+#single{
+    width: 55px;
+    height: 100px;
+    margin-left: 27%;
+}
 
+#se{
+    width: 60px;
+    height: 100px;
+    margin-left: 25%;
+}
 
-.newtext{
+#compare{
+    height: 100px;
+    width: 100px;
+    margin-left: 8%;
+}
+
+#airpods{
+    height: 100px;
+    width: 90px;
+    margin-left: 12%;
+}
+
+#airtag{
+    height: 100px;
+    width: 90px;
+    margin-left: 11%;
+}
+
+#accessories{
+    height: 100px;
+    width: 75px;
+    margin-left: 18%;
+}
+
+#applecard{
+    height: 100px;
+    width: 140px;
+}
+
+#ios{
+    height: 100px;
+    width: 100px;
+    margin-left: 7%;
+}
+
+#shop{
+    height: 100px;
+    width: 130px;
+}
+
+#tradeintextdiv{
+    height: 100%;
+    width: 1000px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 30%;
+    margin-top: 2.5%;
+}
+
+.tradeintext{
+    color: #1d1d1f;
+    font-size: 32px;
+}
+
+#shoptext{
+    color: #1371cf;
+}
+
+#tradeintext2{
+    margin-left: 14%;
+}
+
+#bottomnewtextdiv{
+display: flex;
+justify-content: center;
+align-content: center;
+margin-top: 7%;
+}
+
+#bottomnewtext{
     color: #bf4800;
+}
+
+#bottomphonetext{
+    color: silver;
+    font-size: 32px;
+}
+
+#bottomphonediv{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-top: 0.5%;
 }
