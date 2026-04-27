@@ -1,0 +1,40 @@
+body,p{
+    margin: 0%;
+}
+
+
+#topdiv{
+    height: 6.8%;
+    background-color: red;
+    display: flex;
+    align-items: center;
+
+}
+
+#welcomediv{
+    background-color: #005696;
+    height: 9.42%;
+}
+
+.topbardivs{
+    background-color: turquoise;
+    height: 50%;
+    width: 5%;
+    margin-right: 1%;
+}
+
+#culverslogo{
+    margin-left: 22.35%;
+    margin-right: 1.6%;
+    width: 3.8%;
+    margin-bottom: .3%;
+}
+
+#culverslogoimg{
+    height: 110%;
+    width: 105%;
+}
+
+#topbarmenu{
+    width: 22.2%;
+}
