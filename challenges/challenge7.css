@@ -193,7 +193,6 @@ margin-right: 0% !important;
 }
 
 #menuitemsdiv{
-    background: red;
     width: 49.2%;
     height: 37.4%;
     margin-top: 0.6%;
@@ -201,7 +200,6 @@ margin-right: 0% !important;
 }
 
 #topmenuitems{
-    background-color: aqua;
     width: 100%;
     height: 42.5%;
     display: flex;
@@ -210,14 +208,15 @@ margin-right: 0% !important;
 }
 
 #bottommenuitems{
-    background-color: aquamarine;
     width: 100%;
     height: 42.5%;
     margin-top: 5.45%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .menuitemcontainers{
-    background-color: greenyellow;
     margin-right: 7.49%;
     width: 14%;
     height: 100%;
@@ -227,7 +226,11 @@ margin-right: 0% !important;
     margin-right: 0% !important;
 }
 
-#basketimg{
+#rightmostdiv2{
+    margin-right: 0%;
+}
+
+.imgfix{
     width: 100%;
     height: 80%;
 }
@@ -243,7 +246,6 @@ margin-right: 0% !important;
 }
 
 .menuitemtextdiv{
-    background-color: #f59e0b;
     display: flex;
     justify-content: center;
     margin-top: 3%;
