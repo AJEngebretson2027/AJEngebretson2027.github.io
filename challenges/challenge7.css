@@ -256,3 +256,15 @@ margin-right: 0% !important;
     font-family: 'Roboto Flex';
     font-size: 18px;
 }
+
+#viewfavoritesdiv{
+    margin-left: 42.9%;
+    border: 1px solid #005696;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7px;
+    margin-top: 2.15%;
+    width: 13.51%;
+    height: 2.5%;
+}
