@@ -1,0 +1,33 @@
+div{
+    width: 300px;
+    height: 300px;
+    border: 1px  solid black;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#common-counter{
+    background-color: grey;
+}
+
+#uncommon-counter{
+    background-color: green;
+}
+
+#rare-counter{
+    background-color: blue;
+}
+
+#epic-counter{
+    background-color: purple;
+}
+
+#legendary-counter{
+    background-color: gold;
+}
+
+#mythic-counter{
+    background-color: red;
+}
